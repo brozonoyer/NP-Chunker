@@ -1,0 +1,10 @@
+10000	Кнопку	КНОПКА	1	S	number=ЕД|gender=ЖЕН|case=ВИН|animacy=НЕОД	20000	NP2P	_	_
+20000	надо	НАДО	ADV	ADV	_	0	ROOT	_	_
+20001	*NP2P*-1	None	1	S	None	30000	1-компл	_	_
+30000	нажимать	НАЖИМАТЬ	V	V	aspect=НЕСОВ|form=ИНФ	20000	предик	_	_
+40000	той	ТОТ	A	A	number=ЕД|gender=ЖЕН|case=ТВОР	60000	опред	_	_
+50000	же	ЖЕ	PART	PART	_	40000	огранич	_	_
+60000	рукой	РУКА	S	S	number=ЕД|gender=ЖЕН|case=ТВОР|animacy=НЕОД	30000	2-компл	_	_
+70000	которой	КОТОРЫЙ	S	S	number=ЕД|gender=ЖЕН|case=ТВОР	80000	2-компл	_	_
+80000	делается	ДЕЛАТЬ	V	V	aspect=НЕСОВ|voice=СТРАД|mood=ИЗЪЯВ|tense=НЕПРОШ|number=ЕД|person=3-Л	60000	релят	_	_
+90000	ход	ХОД	S	S	number=ЕД|gender=МУЖ|case=ИМ|animacy=НЕОД	80000	предик	_	_
